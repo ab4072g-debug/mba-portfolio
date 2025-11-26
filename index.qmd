@@ -1,0 +1,33 @@
+---
+title: "About Me"
+format:
+  html:
+    toc: false
+---
+
+# 👋 Welcome to My MBA Portfolio
+
+I am an MBA candidate with hands-on leadership experience in entrepreneurship, hospitality management, and footwear brand strategy.
+
+This portfolio highlights:
+- My academic projects
+- My business experience
+- My leadership approach
+- My commitment to community and ethical practices
+
+---
+
+## 🎯 Career Goals
+- Lead and grow ethical, data-driven businesses  
+- Integrate AI and analytics into strategic decisions  
+- Support Indigenous communities through education and partnerships  
+- Continue developing Zency Kicks as a CSR-focused brand  
+
+---
+
+## 📸 Profile Image (Optional)
+Place an image named **headshot.jpg** in a folder called **images**:
+
+```{=html}
+<img src="images/headshot.jpg" width="250" style="border-radius: 10px;">
+```

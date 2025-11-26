@@ -1,0 +1,38 @@
+---
+title: "Resume"
+---
+
+# 📄 Resume / CV
+
+You may download my full resume here:
+
+👉 [Download Resume (PDF)](resume.pdf)
+
+---
+
+## 🎓 Education
+**Master of Business Administration (MBA)**  
+Focus areas: Business Analytics, Strategy, Leadership
+
+---
+
+## 💼 Professional Experience
+
+### **Chief Executive Officer — Zency Kicks**
+- Created a CSR-driven shoe brand  
+- Designed ethical sourcing strategy  
+- Built full business model for MBA ethics project  
+- Developed sustainability and community support policies  
+
+### **CEO — Restaurant Business**
+- Managed operations, budgeting, HR, and customer service  
+- Improved efficiency using analytics and forecasting  
+- Oversaw vendor management and inventory systems  
+
+---
+
+## ⭐ Key Achievements
+- Time Series Forecasting for Trendy Tees  
+- CAPM, beta estimation & stock forecasting  
+- CSR Strategy for Zency Kicks  
+- Multi-page Quarto portfolio website  

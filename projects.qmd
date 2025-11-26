@@ -1,0 +1,34 @@
+---
+title: "Projects"
+---
+
+# 📊 Major Projects & Case Studies
+
+---
+
+## 1. Trendy Tees — Time Series Forecasting
+- Analyzed trends, seasonality, and cycles  
+- Applied ARIMA, moving averages, Holt-Winters  
+- Proposed pricing and inventory recommendations  
+
+---
+
+## 2. Stock Forecasting & CAPM Analysis
+- Estimated beta using regression  
+- Calculated expected return using CAPM  
+- Used indicators: RSI, MACD, SMA  
+- Performed risk-return evaluation  
+
+---
+
+## 3. Zency Kicks — CSR & Ethics Case Study
+- Built ethical shoe brand focused on sustainability  
+- Integrated Indigenous support  
+- Applied stakeholder analysis, ESG frameworks, and ethical models  
+
+---
+
+## 4. Leadership & Experimental Design
+- Evaluated decision-making frameworks  
+- Used LLM-assisted hypothesis testing  
+- Applied ranking experiments and AB testing logic  

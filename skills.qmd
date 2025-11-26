@@ -1,0 +1,31 @@
+---
+title: "Skills & Certifications"
+---
+
+# 🧩 Skills & Certifications
+
+---
+
+## 🛠 Technical Skills
+- Python (pandas, NumPy, forecasting)  
+- R (time series modeling)  
+- SQL (joins, aggregation, filters)  
+- Excel (Power Query, advanced formulas)  
+- Tableau (dashboards & visuals)  
+- Financial Modeling  
+
+---
+
+## 🧠 Core Competencies
+- Leadership & communication  
+- Ethical analysis & CSR  
+- Data-driven decision-making  
+- Project management  
+- Strategic thinking  
+
+---
+
+## 🎓 Certifications
+- Google Data Analytics — In Progress  
+- Leadership Foundations — LinkedIn Learning  
+- Scrum Fundamentals  

@@ -1,0 +1,34 @@
+---
+title: "Contact"
+---
+
+# 📬 Contact Me
+
+Feel free to connect with me for collaboration, networking, or project opportunities.
+
+---
+
+### ✉ Email  
+yourname@email.com
+
+### 🔗 LinkedIn  
+https://linkedin.com/in/yourname
+
+### 💻 GitHub  
+https://github.com/ab4072g-debug
+
+---
+
+## Contact Form (Optional)
+
+```{=html}
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <label>Your Name:</label><br>
+  <input type="text" name="name" required><br><br>
+  <label>Email:</label><br>
+  <input type="email" name="email" required><br><br>
+  <label>Message:</label><br>
+  <textarea name="message" required></textarea><br><br>
+  <button type="submit">Send</button>
+</form>
+```

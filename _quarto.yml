@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Abhay Thakur – MBA Portfolio"
+  site-url: "https://ab4072g-debug.github.io/mba-portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: resume.qmd
+        text: "Resume"
+      - href: projects.qmd
+        text: "Projects"
+      - href: skills.qmd
+        text: "Skills"
+      - href: leadership.qmd
+        text: "Leadership"
+      - href: contact.qmd
+        text: "Contact"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    page-layout: full
